@@ -1,141 +1,293 @@
-<h1 align="center">Mohd Abdul Sabeeh</h1>
+# Mohd Abdul Sabeeh
 
-<h3 align="center">
-Building products. Learning systems. Shipping software.
-</h3>
+<div align="center">
 
-<p align="center">
-Full Stack Developer • Cloud & DevOps Learner • AI Enthusiast
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A56A0&center=true&vCenter=true&width=550&lines=Building+Products;Designing+Backend+Systems;Learning+Docker+%26+Cloud;Shipping+Software)](https://github.com/qwerty12-ai)
 
-<p align="center">
-<a href="https://github.com/qwerty12-ai">
-<img src="https://komarev.com/ghpvc/?username=qwerty12-ai&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
-</p>
+<h3>Full Stack Developer • Backend-Focused</h3>
 
----
-
-## 👋 About Me
-
-I'm a Full Stack Developer from Hyderabad, India.
-
-I enjoy building products that solve real problems, exploring modern backend architectures, and learning how software scales from a side project to production.
-
-My current focus is becoming an engineer who can build, deploy, and maintain complete systems—from frontend experiences to cloud infrastructure.
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 PromptPad AI
-A distraction-free playground built for prompt engineers, creators, and developers to experiment with AI prompts.
-
----
-
-### 📊 GitPulse
-Developer intelligence platform that transforms GitHub profile data into analytics, repository insights, rankings, and developer metrics.
-
----
-
-### ⚡ SignalForge
-An AI-powered B2B outreach platform that automates lead discovery, verified email generation, and personalized outreach workflows.
-
----
-
-### 🎨 GreenDraw
-A full-stack application featuring draw-based rewards, secure JWT authentication, protected dashboards, and interactive user experiences.
-
----
-
-### ⚙️ CursorVault
-A backend-focused project demonstrating scalable cursor pagination, efficient APIs, and production-style architecture.
-
----
-
-## 💻 Tech Stack
-
-### Languages
-
-JavaScript • Python • SQL
-
-### Frontend
-
-HTML • CSS • React • Next.js
-
-### Backend
-
-Node.js • Express • Flask
-
-### Databases
-
-MongoDB • MySQL
-
-### Tools
-
-Git • GitHub • Docker • Linux • VS Code • Postman
-
-### Currently Learning
-
-AWS • Redis • Kubernetes • CI/CD • System Design
-
----
-
-## 📈 Current Focus
-
-- Building production-ready software
-- Strengthening Data Structures & Algorithms
-- Learning Cloud & DevOps
-- Contributing to Open Source
-- Writing cleaner backend architecture
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=qwerty12-ai&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty12-ai&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=qwerty12-ai&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 2026 Goals
-
-- ✅ Build impactful software
-- 🔄 Master Cloud & DevOps
-- 🔄 Contribute consistently to Open Source
-- 🔄 Deepen System Design knowledge
-- 🔄 Keep shipping products
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-
+<p>
 <a href="https://github.com/qwerty12-ai">GitHub</a> •
-<a href="https://linkedin.com/in/mohd-abdul-sabeeh-38429a2ba">LinkedIn</a>
-
+<a href="https://linkedin.com/in/mohd-abdul-sabeeh-38429a2ba">LinkedIn</a> •
+<a href="mailto:sabeehmohd79@gmail.com">Email</a>
 </p>
+
+📍 Hyderabad, India • 🎓 Sreenidhi Institute of Science & Technology (2023–2027)
+
+</div>
+
+---
+
+# About
+
+I enjoy building production-ready software systems with a strong focus on backend architecture, API design, database optimization, and scalable software design.
+
+Over the past year, I've shipped **4 deployed REST APIs** involving cursor pagination for a **200K-product dataset**, multi-API orchestration with graceful degradation, analytics engines, and AI-powered full-stack applications.
+
+My interests revolve around building reliable backend systems that are maintainable, scalable, and easy to reason about.
+
+Currently learning **Docker**, **AWS**, **Redis**, **Cloud Computing**, and **DevOps**.
+
+🏆 **Top 25% Nationally** — Amazon ML Challenge 2025  
+🎓 **CS50x Graduate**
+
+---
+
+# 🏆 Amazon ML Challenge 2025
+
+<div align="center">
+
+**Team Lead** • Ranked **1420 / 5740 (Top 25%)**
+
+| Metric | Result |
+|---------|--------|
+| SMAPE Score | **70.5 → 50.5** |
+| Iterations | **15 Submissions** |
+| Model | TF-IDF + LightGBM + Feature Engineering |
+
+[Repository](https://github.com/qwerty12-ai/AMAZON-ML-CHALLENGE-2025-SOURCE-CODES-FOR-DEMONSTRATION)
+
+</div>
+
+---
+
+# 🚀 Featured Products
+
+## CursorVault — Cursor Pagination API
+
+**Cursor-based pagination API handling a 200K-product dataset**
+
+```text
+Browser Client
+      ↓
+Express REST API
+      ↓
+MySQL (Aiven)
+      ↓
+Composite Indexes
+```
+
+- Designed composite indexes for efficient ordered queries
+- Implemented Base64 cursor encoding for stable pagination
+- Engineered batch insert operations for large datasets
+
+**Stack**
+
+Node.js • Express.js • MySQL • Render
+
+**Live Demo** • https://cursorvault.onrender.com
+
+**Repository**
+
+https://github.com/qwerty12-ai/CursorVault
+
+---
+
+## SignalForge — Multi-API Orchestration Platform
+
+**Automated B2B outreach powered by multiple external APIs**
+
+```text
+Next.js Frontend
+      ↓
+Express Backend
+      ↓
+Ocean.io
+      ↓
+Prospeo
+      ↓
+Brevo
+      ↓
+Human Approval Workflow
+```
+
+- Built resilient multi-API orchestration with graceful recovery from rate limits
+- Implemented a human approval workflow before outreach execution
+- Designed a normalization layer for heterogeneous API responses
+
+**Stack**
+
+Next.js • Node.js • Express.js • Vercel
+
+Demo
+
+https://drive.google.com/file/d/17i8M8O-Y-4LI37GD4br1zExxyfpkedTQ/view
+
+Repository
+
+https://github.com/qwerty12-ai/SignalForge
+
+---
+
+## GitPulse — Developer Analytics API
+
+**Analytics platform built on top of the GitHub REST API**
+
+```text
+GitHub REST API
+       ↓
+Controller-Service Architecture
+       ↓
+MySQL
+       ↓
+Analytics Engine
+       ↓
+Developer Rankings
+```
+
+- Built a controller-service architecture around the GitHub REST API
+- Designed a normalized relational schema
+- Engineered an analytics engine for repository insights
+
+**Stack**
+
+Node.js • Express.js • MySQL • Railway
+
+Demo
+
+https://youtu.be/fi0XzXL_fIk
+
+Repository
+
+https://github.com/qwerty12-ai/GitPulse
+
+---
+
+## PromptPad AI
+
+**Prompt engineering workspace with version management**
+
+```text
+Next.js
+     ↓
+GitHub OAuth
+     ↓
+MongoDB
+     ↓
+Prompt Versioning
+```
+
+- Built GitHub OAuth authentication
+- Designed secure per-user prompt isolation
+- Implemented prompt version comparison
+
+**Stack**
+
+Next.js • MongoDB Atlas • NextAuth.js • Vercel
+
+Demo
+
+https://promptpad-ai-editor.vercel.app
+
+Repository
+
+https://github.com/qwerty12-ai/PromptPad-AI-Editor
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+Python • JavaScript • SQL • Bash
+
+## Backend
+
+Node.js • Express.js • REST APIs
+
+## Frontend
+
+React • Next.js • Tailwind CSS
+
+## Databases
+
+MongoDB • MySQL • Mongoose
+
+## Infrastructure
+
+Docker • AWS • Linux • Git
+
+## Tools
+
+Postman • Render • Vercel • MongoDB Atlas
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=qwerty12-ai&show_icons=true&theme=github_dark&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty12-ai&layout=compact&theme=github_dark&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=qwerty12-ai&theme=github_dark&no-bg=true&no-frame=true)
+
+</div>
+
+---
+
+# 🎯 Currently Learning
+
+- Docker
+- Redis
+- AWS
+- Cloud Computing
+- DevOps
+- System Design
+
+---
+
+# 🧠 Engineering Philosophy
+
+- Build products, not tutorials.
+- Prefer understanding systems over memorizing frameworks.
+- Optimize for maintainability before complexity.
+
+---
+
+# 🏅 Certifications
+
+**CS50x — Harvard University**
+
+https://certificates.cs50.io/b6002d62-50e3-4d0e-9da8-7a70a9bfd722.pdf
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=qwerty12-ai&theme=github-dark&hide_border=true)
+
+</div>
+
+---
+
+# 🔗 Connect
+
+<div align="center">
+
+📧 **Email**
+
+sabeehmohd79@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/mohd-abdul-sabeeh-38429a2ba
+
+🐙 **GitHub**
+
+https://github.com/qwerty12-ai
+
+</div>
 
 ---
 
 <div align="center">
 
-### "Ideas are cheap. Shipping them isn't."
+## Products over promises.
+
+![](https://visitor-badge.laobi.icu/badge?page_id=qwerty12-ai)
 
 </div>
