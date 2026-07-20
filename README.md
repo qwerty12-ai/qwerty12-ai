@@ -217,11 +217,9 @@ Postman • Render • Vercel • MongoDB Atlas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qwerty12-ai&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=qwerty12-ai&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty12-ai&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=qwerty12-ai&theme=onedark&no-bg=true&no-frame=true&margin-w=5)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qwerty12-ai&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
