@@ -33,36 +33,43 @@ Currently learning **Docker**, **AWS**, **Redis**, **Cloud Computing**, and **De
 
 ---
 
-# 🖥 Interactive Developer Console
+# 🖥 Developer Console
 
 ```console
 Welcome to Mohd Abdul Sabeeh's Developer Console.
 
 Type 'help' to list available commands.
+Click ▶ beside a command below to execute it.
 
-sabeeh@github:~$ _
+Session initialized.
+
+sabeeh@dev:~$ _
 ```
 
 <details>
 <summary><code>help</code></summary>
 
 ```console
-sabeeh@github:~$ help
+sabeeh@dev:~$ help
 
 Available commands
 
 about          Learn about me
-projects       View featured projects
-skills         Explore my technical stack
+projects       Browse featured projects
+skills         View technical stack
 achievements   Awards & certifications
 learning       Current learning roadmap
 philosophy     Engineering mindset
 contact        Ways to reach me
-pwd            Current workspace
+pwd            Print working directory
 git status     Repository status
+neofetch       System summary
+resume         Career snapshot
 exit           Close session
 
-sabeeh@github:~$ _
+Type any command above by expanding it below.
+
+sabeeh@dev:~$ _
 ```
 
 </details>
@@ -71,7 +78,7 @@ sabeeh@github:~$ _
 <summary><code>about</code></summary>
 
 ```console
-sabeeh@github:~$ about
+sabeeh@dev:~$ about
 
 Mohd Abdul Sabeeh
 
@@ -90,7 +97,7 @@ Interested in solving real engineering problems,
 shipping production systems, and continuously
 improving through hands-on projects.
 
-sabeeh@github:~$ _
+sabeeh@dev:~$ _
 ```
 
 </details>
@@ -99,7 +106,7 @@ sabeeh@github:~$ _
 <summary><code>projects</code></summary>
 
 ```console
-sabeeh@github:~$ projects
+sabeeh@dev:~$ projects
 
 ✓ SignalForge
   Multi-API orchestration platform with graceful
@@ -117,7 +124,7 @@ sabeeh@github:~$ projects
   Prompt engineering workspace featuring GitHub
   OAuth, versioning, and analytics.
 
-sabeeh@github:~$ _
+sabeeh@dev:~$ _
 ```
 
 </details>
@@ -126,7 +133,7 @@ sabeeh@github:~$ _
 <summary><code>skills</code></summary>
 
 ```console
-sabeeh@github:~$ skills
+sabeeh@dev:~$ skills
 
 Languages
 ---------
@@ -167,7 +174,7 @@ Render
 Vercel
 MongoDB Atlas
 
-sabeeh@github:~$ _
+sabeeh@dev:~$ _
 ```
 
 </details>
@@ -176,7 +183,7 @@ sabeeh@github:~$ _
 <summary><code>achievements</code></summary>
 
 ```console
-sabeeh@github:~$ achievements
+sabeeh@dev:~$ achievements
 
 🏆 Amazon ML Challenge 2025
 
@@ -191,7 +198,7 @@ SMAPE
 🎓 CS50x
 Harvard University
 
-sabeeh@github:~$ _
+sabeeh@dev:~$ _
 ```
 
 </details>
@@ -200,7 +207,7 @@ sabeeh@github:~$ _
 <summary><code>learning</code></summary>
 
 ```console
-sabeeh@github:~$ learning
+sabeeh@dev:~$ learning
 
 Current Roadmap
 
@@ -214,7 +221,7 @@ Current Roadmap
 Always learning.
 Always building.
 
-sabeeh@github:~$ _
+sabeeh@dev:~$ _
 ```
 
 </details>
@@ -223,7 +230,7 @@ sabeeh@github:~$ _
 <summary><code>philosophy</code></summary>
 
 ```console
-sabeeh@github:~$ philosophy
+sabeeh@dev:~$ philosophy
 
 Build products,
 not tutorials.
@@ -236,7 +243,7 @@ before complexity.
 
 Products over promises.
 
-sabeeh@github:~$ _
+sabeeh@dev:~$ _
 ```
 
 </details>
@@ -245,18 +252,18 @@ sabeeh@github:~$ _
 <summary><code>contact</code></summary>
 
 ```console
-sabeeh@github:~$ contact
+sabeeh@dev:~$ contact
 
 GitHub
-https://github.com/qwerty12-ai
+github.com/qwerty12-ai
 
 LinkedIn
-https://linkedin.com/in/mohd-abdul-sabeeh-38429a2ba
+linkedin.com/in/mohd-abdul-sabeeh-38429a2ba
 
 Email
 sabeehmohd79@gmail.com
 
-sabeeh@github:~$ _
+sabeeh@dev:~$ _
 ```
 
 </details>
@@ -265,11 +272,11 @@ sabeeh@github:~$ _
 <summary><code>pwd</code></summary>
 
 ```console
-sabeeh@github:~$ pwd
+sabeeh@dev:~$ pwd
 
 /home/sabeeh/building-products
 
-sabeeh@github:~$ _
+sabeeh@dev:~$ _
 ```
 
 </details>
@@ -278,16 +285,66 @@ sabeeh@github:~$ _
 <summary><code>git status</code></summary>
 
 ```console
-sabeeh@github:~$ git status
+sabeeh@dev:~$ git status
 
 On branch main
 
-Your branch is ahead of yesterday.
+Your branch is up to date with 'origin/main'.
 
-nothing to commit,
-keep shipping.
+nothing to commit, working tree clean.
 
-sabeeh@github:~$ _
+Keep building.
+
+sabeeh@dev:~$ _
+```
+
+</details>
+
+<details>
+<summary><code>neofetch</code></summary>
+
+```console
+sabeeh@dev:~$ neofetch
+
+OS          : Backend Engineer
+Host        : Hyderabad, India
+Kernel      : B.Tech CSE (2023–2027)
+Shell       : bash
+Editor      : VS Code
+Languages   : JavaScript, Python, SQL
+Backend     : Node.js, Express.js
+Databases   : MySQL, MongoDB
+Cloud       : AWS (Learning)
+Containers  : Docker (Learning)
+Status      : Building products
+
+sabeeh@dev:~$ _
+```
+
+</details>
+
+<details>
+<summary><code>resume</code></summary>
+
+```console
+sabeeh@dev:~$ resume
+
+Mohd Abdul Sabeeh
+-----------------
+Role      : Backend-Focused Full Stack Developer
+Education : B.Tech CSE (2023–2027)
+Location  : Hyderabad, India
+
+Highlights
+----------
+✓ Production REST APIs
+✓ Database Engineering
+✓ Multi-API Orchestration
+✓ Cloud & DevOps Learning
+
+Resume available in this repository.
+
+sabeeh@dev:~$ _
 ```
 
 </details>
@@ -296,13 +353,13 @@ sabeeh@github:~$ _
 <summary><code>exit</code></summary>
 
 ```console
-sabeeh@github:~$ exit
+sabeeh@dev:~$ exit
 
 logout
 
 Connection to github.com closed.
 
-Happy coding.
+See you in the next commit.
 ```
 
 </details>
