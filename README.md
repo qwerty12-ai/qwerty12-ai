@@ -33,6 +33,282 @@ Currently learning **Docker**, **AWS**, **Redis**, **Cloud Computing**, and **De
 
 ---
 
+# 🖥 Interactive Developer Console
+
+```console
+Welcome to Mohd Abdul Sabeeh's Developer Console.
+
+Type 'help' to list available commands.
+
+sabeeh@github:~$ _
+```
+
+<details>
+<summary><code>help</code></summary>
+
+```console
+sabeeh@github:~$ help
+
+Available commands
+
+about          Learn about me
+projects       View featured projects
+skills         Explore my technical stack
+achievements   Awards & certifications
+learning       Current learning roadmap
+philosophy     Engineering mindset
+contact        Ways to reach me
+pwd            Current workspace
+git status     Repository status
+exit           Close session
+
+sabeeh@github:~$ _
+```
+
+</details>
+
+<details>
+<summary><code>about</code></summary>
+
+```console
+sabeeh@github:~$ about
+
+Mohd Abdul Sabeeh
+
+Backend-Focused Full Stack Developer
+
+Building production-ready software with a focus on
+backend engineering, scalable REST APIs, database
+design, and system architecture.
+
+📍 Hyderabad, India
+🎓 B.Tech Computer Science & Engineering
+   Sreenidhi Institute of Science & Technology
+   2023–2027
+
+Interested in solving real engineering problems,
+shipping production systems, and continuously
+improving through hands-on projects.
+
+sabeeh@github:~$ _
+```
+
+</details>
+
+<details>
+<summary><code>projects</code></summary>
+
+```console
+sabeeh@github:~$ projects
+
+✓ SignalForge
+  Multi-API orchestration platform with graceful
+  degradation and human approval workflow.
+
+✓ CursorVault
+  Cursor pagination REST API handling
+  200K+ products efficiently.
+
+✓ GitPulse
+  GitHub Developer Analytics Platform with
+  relational data modeling and REST APIs.
+
+✓ PromptPad AI
+  Prompt engineering workspace featuring GitHub
+  OAuth, versioning, and analytics.
+
+sabeeh@github:~$ _
+```
+
+</details>
+
+<details>
+<summary><code>skills</code></summary>
+
+```console
+sabeeh@github:~$ skills
+
+Languages
+---------
+JavaScript
+Python
+SQL
+Bash
+
+Backend
+-------
+Node.js
+Express.js
+REST APIs
+
+Frontend
+--------
+React
+Next.js
+Tailwind CSS
+
+Databases
+---------
+MySQL
+MongoDB
+Mongoose
+
+Infrastructure
+--------------
+Linux
+Docker (Learning)
+AWS (Learning)
+
+Tools
+-----
+Git
+Postman
+Render
+Vercel
+MongoDB Atlas
+
+sabeeh@github:~$ _
+```
+
+</details>
+
+<details>
+<summary><code>achievements</code></summary>
+
+```console
+sabeeh@github:~$ achievements
+
+🏆 Amazon ML Challenge 2025
+
+Ranked 1420 / 5740
+Top 25% Nationally
+
+SMAPE
+70.5 → 50.5
+
+15 Iterative Model Submissions
+
+🎓 CS50x
+Harvard University
+
+sabeeh@github:~$ _
+```
+
+</details>
+
+<details>
+<summary><code>learning</code></summary>
+
+```console
+sabeeh@github:~$ learning
+
+Current Roadmap
+
+→ Docker
+→ Redis
+→ AWS
+→ Cloud Computing
+→ DevOps
+→ System Design
+
+Always learning.
+Always building.
+
+sabeeh@github:~$ _
+```
+
+</details>
+
+<details>
+<summary><code>philosophy</code></summary>
+
+```console
+sabeeh@github:~$ philosophy
+
+Build products,
+not tutorials.
+
+Understand systems,
+don't memorize frameworks.
+
+Optimize for maintainability
+before complexity.
+
+Products over promises.
+
+sabeeh@github:~$ _
+```
+
+</details>
+
+<details>
+<summary><code>contact</code></summary>
+
+```console
+sabeeh@github:~$ contact
+
+GitHub
+https://github.com/qwerty12-ai
+
+LinkedIn
+https://linkedin.com/in/mohd-abdul-sabeeh-38429a2ba
+
+Email
+sabeehmohd79@gmail.com
+
+sabeeh@github:~$ _
+```
+
+</details>
+
+<details>
+<summary><code>pwd</code></summary>
+
+```console
+sabeeh@github:~$ pwd
+
+/home/sabeeh/building-products
+
+sabeeh@github:~$ _
+```
+
+</details>
+
+<details>
+<summary><code>git status</code></summary>
+
+```console
+sabeeh@github:~$ git status
+
+On branch main
+
+Your branch is ahead of yesterday.
+
+nothing to commit,
+keep shipping.
+
+sabeeh@github:~$ _
+```
+
+</details>
+
+<details>
+<summary><code>exit</code></summary>
+
+```console
+sabeeh@github:~$ exit
+
+logout
+
+Connection to github.com closed.
+
+Happy coding.
+```
+
+</details>
+
+---
+
 # 🏆 Amazon ML Challenge 2025
 
 <div align="center">
