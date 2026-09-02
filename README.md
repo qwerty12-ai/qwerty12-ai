@@ -24,6 +24,8 @@ I enjoy building production-ready software systems with a strong focus on backen
 
 Over the past year, I've shipped **4 deployed REST APIs** involving cursor pagination for a **200K-product dataset**, multi-API orchestration with graceful degradation, analytics engines, and AI-powered full-stack applications.
 
+I've also built **Reclaim**, a controlled AI revenue recovery system that combines deterministic recovery logic, AI-assisted analysis, bounded execution, audit trails, idempotency, and batch recovery measurement.
+
 My interests revolve around building reliable backend systems that are maintainable, scalable, and easy to reason about.
 
 Currently learning **Docker**, **AWS**, **Redis**, **Cloud Computing**, and **DevOps**.
@@ -86,7 +88,7 @@ Backend-Focused Full Stack Developer
 
 Building production-ready software with a focus on
 backend engineering, scalable REST APIs, database
-design, and system architecture.
+design, system architecture, and AI-powered systems.
 
 📍 Hyderabad, India
 🎓 B.Tech Computer Science & Engineering
@@ -107,6 +109,11 @@ sabeeh@dev:~$ _
 
 ```console
 sabeeh@dev:~$ projects
+
+✓ Reclaim
+  Controlled AI revenue recovery system with
+  bounded execution, auditability, escalation,
+  idempotency, and batch recovery measurement.
 
 ✓ SignalForge
   Multi-API orchestration platform with graceful
@@ -138,6 +145,7 @@ sabeeh@dev:~$ skills
 Languages
 ---------
 JavaScript
+TypeScript
 Python
 SQL
 Bash
@@ -146,6 +154,7 @@ Backend
 -------
 Node.js
 Express.js
+FastAPI
 REST APIs
 
 Frontend
@@ -160,11 +169,21 @@ MySQL
 MongoDB
 Mongoose
 
+AI
+--
+Ollama
+Qwen 3:4B
+
 Infrastructure
 --------------
 Linux
-Docker (Learning)
+Docker
+Docker Compose
 AWS (Learning)
+
+CI/CD
+-----
+GitHub Actions
 
 Tools
 -----
@@ -311,11 +330,12 @@ Host        : Hyderabad, India
 Kernel      : B.Tech CSE (2023–2027)
 Shell       : bash
 Editor      : VS Code
-Languages   : JavaScript, Python, SQL
-Backend     : Node.js, Express.js
+Languages   : JavaScript, TypeScript, Python, SQL
+Backend     : Node.js, Express.js, FastAPI
 Databases   : MySQL, MongoDB
 Cloud       : AWS (Learning)
-Containers  : Docker (Learning)
+Containers  : Docker
+CI/CD       : GitHub Actions
 Status      : Building products
 
 sabeeh@dev:~$ _
@@ -340,6 +360,8 @@ Highlights
 ✓ Production REST APIs
 ✓ Database Engineering
 ✓ Multi-API Orchestration
+✓ AI-Powered Systems
+✓ Bounded Recovery Workflows
 ✓ Cloud & DevOps Learning
 
 Resume available in this repository.
@@ -385,6 +407,46 @@ See you in the next commit.
 ---
 
 # 🚀 Featured Products
+
+## Reclaim — AI-Powered Revenue Recovery
+
+**Controlled AI revenue recovery system for detecting, analyzing, and recovering revenue at risk**
+
+```text
+Revenue Case
+      ↓
+Deterministic Intervention
+      ↓
+AI Analysis
+      ↓
+Bounded Recovery Execution
+      ↓
+Audit Trail
+      ↓
+Batch Measurement
+```
+
+- Built a deterministic recovery pipeline for payment failures, checkout abandonment, and subscription failures
+- Designed AI-assisted analysis using a local Qwen 3:4B model through Ollama
+- Implemented bounded execution with `executed`, `stopped`, and `escalated` outcomes
+- Added persistent recovery audit records and individual and batch idempotency
+- Built batch recovery measurement for revenue at risk, revenue recovered, recovery rate, and recovery outcomes
+- Containerized the web application, AI service, and MySQL database with Docker Compose
+- Added GitHub Actions CI for application builds and container validation
+
+**Stack**
+
+Next.js • TypeScript • MySQL • FastAPI • Ollama • Qwen 3:4B • Docker Compose • GitHub Actions
+
+**Pitch**
+
+https://drive.google.com/file/d/159puneOEg8M65Fe32Vmyzru-Qh1BiI3H/view
+
+**Repository**
+
+https://github.com/qwerty12-ai/Reclaim
+
+---
 
 ## CursorVault — Cursor Pagination API
 
@@ -522,11 +584,11 @@ https://github.com/qwerty12-ai/PromptPad-AI-Editor
 
 ## Languages
 
-Python • JavaScript • SQL • Bash
+Python • JavaScript • TypeScript • SQL • Bash
 
 ## Backend
 
-Node.js • Express.js • REST APIs
+Node.js • Express.js • FastAPI • REST APIs
 
 ## Frontend
 
@@ -536,9 +598,17 @@ React • Next.js • Tailwind CSS
 
 MongoDB • MySQL • Mongoose
 
+## AI
+
+Ollama • Qwen 3:4B
+
 ## Infrastructure
 
-Docker • AWS • Linux • Git
+Docker • Docker Compose • AWS • Linux • Git
+
+## CI/CD
+
+GitHub Actions
 
 ## Tools
 
