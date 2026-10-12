@@ -1,43 +1,39 @@
 <div align="center">
 
-# Mohd Abdul Sabeeh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56A0,100:7C3AED&height=210&section=header&text=Mohd%20Abdul%20Sabeeh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=58&descSize=17" alt="header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A56A0&center=true&vCenter=true&width=550&lines=Building+Products;Designing+Backend+Systems;Learning+Docker+%26+Cloud;Shipping+Software)](https://github.com/qwerty12-ai)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=560&lines=Building+Products;Designing+Backend+Systems;Making+AI+Findings+Inspectable;Learning+Docker+%26+Cloud;Shipping+Software)](https://github.com/qwerty12-ai)
 
-### Full Stack Developer • Backend-Focused
+[![GitHub](https://img.shields.io/badge/GitHub-qwerty12--ai-181717?style=for-the-badge&logo=github)](https://github.com/qwerty12-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-abdul-sabeeh-38429a2ba)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabeehmohd79@gmail.com)
 
-[GitHub](https://github.com/qwerty12-ai) • [LinkedIn](https://linkedin.com/in/mohd-abdul-sabeeh-38429a2ba) • [Email](mailto:sabeehmohd79@gmail.com)
-
-📍 Hyderabad, India • 🎓 Sreenidhi Institute of Science & Technology (2023–2027)
+📍 Hyderabad, India &nbsp;•&nbsp; 🎓 Sreenidhi Institute of Science & Technology (2023–2027)
 
 </div>
 
 ---
 
-## About
+## 👋 About
 
-I enjoy building software systems with a strong focus on backend architecture, API design, database optimization, and scalable software design.
+I enjoy building software systems with a strong focus on **backend architecture, API design, database optimization, and scalable software design**.
 
-Over the past year, I've shipped 4 deployed REST APIs involving cursor pagination for a 200K-product dataset, multi-API orchestration with graceful degradation, analytics engines, and AI-powered full-stack applications.
+Over the past year I've shipped **4 deployed REST APIs** covering cursor pagination over a 200K-product dataset, multi-API orchestration with graceful degradation, analytics engines, and AI-powered full-stack apps.
 
-I've also built **Reclaim**, a controlled AI revenue recovery system that combines deterministic recovery logic, AI-assisted analysis, bounded execution, audit trails, idempotency, and batch recovery measurement.
+- 🛡️ **Reclaim** is a controlled AI revenue recovery system: deterministic recovery logic, AI-assisted analysis, bounded execution, audit trails, idempotency, and batch recovery measurement.
+- 🔬 **Knowledge Compiler** (my latest) turns repository artifacts into structured engineering claims linked to extracted evidence, with optional local-LLM investigation. Stack: Python compiler, FastAPI, Redis, BullMQ, MySQL, and a Next.js forensic workstation.
 
-My latest project, **Knowledge Compiler**, explores evidence-backed codebase analysis. It transforms repository artifacts into structured engineering claims, connects findings to extracted evidence, and optionally uses a local language model to investigate selected parts of a codebase. Its full application combines a Python compiler, FastAPI, Redis, BullMQ, MySQL, and a Next.js forensic workstation.
+I care about reliable backend systems that are maintainable, scalable, and easy to reason about, and about making AI-generated findings **inspectable** instead of treating plausible explanations as established facts.
 
-My interests revolve around building reliable backend systems that are maintainable, scalable, and easy to reason about, while making AI-generated findings inspectable rather than treating plausible explanations as established facts.
+**Currently learning:** Docker • AWS • Redis • Cloud Computing • DevOps
 
-Currently learning Docker, AWS, Redis, Cloud Computing, and DevOps.
-
-🏆 Top 25% Nationally — Amazon ML Challenge 2025
-🎓 CS50x Graduate
+> 🏆 Top 25% Nationally, Amazon ML Challenge 2025 &nbsp;|&nbsp; 🎓 CS50x Graduate
 
 ---
 
 ## 🖥 Developer Console
 
-Welcome to Mohd Abdul Sabeeh's Developer Console.
-
-Type `help` to list available commands. Click ▶ beside a command below to expand it.
+Welcome to Mohd Abdul Sabeeh's Developer Console. Click ▶ beside a command to run it.
 
 ```text
 Session initialized.
@@ -148,68 +144,16 @@ sabeeh@dev:~$ _
 ```text
 sabeeh@dev:~$ skills
 
-Languages
----------
-JavaScript
-TypeScript
-Python
-SQL
-Bash
-
-Backend
--------
-Node.js
-Express.js
-FastAPI
-REST APIs
-Background Job Processing
-
-Frontend
---------
-React
-Next.js
-Tailwind CSS
-
-Databases
----------
-MySQL
-MongoDB
-Mongoose
-
-AI
---
-Ollama
-Qwen 3:4B
-AI-Assisted Investigation
-Evidence-Based Validation
-
-Infrastructure
---------------
-Linux
-Docker
-Docker Compose
-Redis
-AWS (Learning)
-
-Queues & Messaging
-------------------
-BullMQ
-Redis Pub/Sub
-Server-Sent Events
-
-CI/CD & Testing
----------------
-GitHub Actions
-pytest
-Frontend Linting & Build Checks
-
-Tools
------
-Git
-Postman
-Render
-Vercel
-MongoDB Atlas
+Languages        JavaScript, TypeScript, Python, SQL, Bash
+Backend          Node.js, Express.js, FastAPI, REST APIs, Background Jobs
+Frontend         React, Next.js, Tailwind CSS
+Databases        MySQL, MongoDB, Mongoose
+AI               Ollama, Qwen 3:4B, AI-Assisted Investigation,
+                 Evidence-Based Validation
+Infrastructure   Linux, Docker, Docker Compose, Redis, AWS (Learning)
+Queues           BullMQ, Redis Pub/Sub, Server-Sent Events
+CI/CD & Testing  GitHub Actions, pytest, Frontend Lint & Build Checks
+Tools            Git, Postman, Render, Vercel, MongoDB Atlas
 
 sabeeh@dev:~$ _
 ```
@@ -414,15 +358,16 @@ See you in the next commit.
 
 <div align="center">
 
-**Team Lead • Ranked 1420 / 5740 (Top 25%)**
+**Smart Product Pricing • Team PrimeVision • Team Lead • Ranked 1420 / 5740 (Top 25%)**
 
 | Metric | Result |
-| --- | --- |
-| SMAPE Score | 70.5 → 50.5 |
-| Iterations | 15 Submissions |
-| Model | TF-IDF + LightGBM + Feature Engineering |
+| :--- | :--- |
+| 📉 SMAPE Score | **70.5 → 50.5** |
+| 🔁 Iterations | 15 submissions |
+| 🧠 Model | TF-IDF (1–3 grams) + handcrafted text features + LightGBM, trained on log(price) |
+| 🖼 Data used | Text only (`catalog_content`) |
 
-[Repository](https://github.com/qwerty12-ai/AMAZON-ML-CHALLENGE-2025-SOURCE-CODES-FOR-DEMONSTRATION)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/qwerty12-ai/AMAZON-ML-CHALLENGE-2025-SOURCE-CODES-FOR-DEMONSTRATION)
 
 </div>
 
@@ -430,274 +375,200 @@ See you in the next commit.
 
 ## 🚀 Featured Products
 
-### Knowledge Compiler — Evidence-Backed Codebase Analysis
+### 🔬 Knowledge Compiler
 
-> *Show me what this codebase knows about itself.*
+*Show me what this codebase knows about itself.*
 
-Knowledge Compiler analyzes a software repository and transforms repository artifacts into structured engineering claims with evidence references. It aims to help engineers investigate unfamiliar codebases by making findings, supporting evidence, and uncertainty easier to inspect.
+Analyzes a software repository and turns it into structured engineering **claims with evidence references**, so findings, supporting evidence, and uncertainty are easy to inspect. The deterministic analysis works without a language model or GPU; local AI investigation is optional.
 
-```text
-Software Repository
-        ↓
-File Discovery
-        ↓
-Evidence Extraction
-        ↓
-Optional Local AI Investigation
-        ↓
-Observation Validation
-        ↓
-Structured Claims
-        ↓
-Forensic Workstation
-        ↓
-Claims • Evidence • Analysis State
+```mermaid
+flowchart TD
+    A["Software Repository"] --> B["File Discovery"]
+    B --> C["Evidence Extraction"]
+    C --> D["Optional Local AI Investigation"]
+    D --> E["Observation Validation"]
+    E --> F["Structured Claims"]
+    F --> G["Forensic Workstation"]
 ```
 
-- Built a Python compiler with repository discovery, file-content extraction, Python AST-based structural analysis, and structured JSON output.
-- Implemented deterministic analysis that works without a language model or GPU.
-- Integrated optional local AI investigation using Ollama and Qwen 3:4B to examine selected README documentation, Python functions, and classes.
-- Added a validation stage that checks AI-generated observations against independently extracted repository evidence using a second call to the local model.
-- Designed a knowledge model with claim statuses, heuristic confidence scores, evidence references, source metadata, and claim-evidence relationships.
-- Built a FastAPI backend for creating and retrieving analyses.
-- Integrated Redis and BullMQ for background analysis jobs, analysis state, and progress events.
-- Implemented MySQL persistence for analyses, claims, evidence, and their relationships.
-- Developed a Next.js, React, and TypeScript forensic workstation for exploring analyses, claims, evidence, and Redis-backed analysis state.
-- Containerized the local application with Docker Compose and added GitHub Actions CI for compiler/backend tests and frontend lint/build checks.
+- Python compiler with repository discovery, file-content extraction, Python AST structural analysis, and structured JSON output.
+- Optional local AI investigation (Ollama + Qwen 3:4B) over README docs, Python functions, and classes.
+- Validation stage that checks AI observations against independently extracted evidence using a second model call.
+- Knowledge model with claim statuses, heuristic confidence scores, evidence references, and claim-evidence relationships.
+- FastAPI backend, Redis + BullMQ background jobs with progress events, and MySQL persistence.
+- Next.js, React, and TypeScript forensic workstation with a Redis inspector.
+- Docker Compose setup and GitHub Actions CI (compiler/backend tests, frontend lint and build).
 
-**Stack**
+<img src="https://skillicons.dev/icons?i=py,ts,nextjs,react,fastapi,mysql,redis,docker,githubactions&theme=dark" alt="Knowledge Compiler stack"/>
 
-Python • TypeScript • Next.js • React • FastAPI • MySQL • Redis • BullMQ • Ollama • Qwen 3:4B • Docker Compose • GitHub Actions • pytest
+`BullMQ` `Ollama` `Qwen 3:4B` `pytest`
 
-**Project Walkthrough**
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/qwerty12-ai/knowledge-compiler)
+[![Walkthrough](https://img.shields.io/badge/20--min%20Walkthrough-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1MWG1KX5LHnnaEhTZarqZ-3c935FxHzTB/view?usp=sharing)
 
-[Watch the 20-minute Knowledge Compiler tutorial](https://drive.google.com/file/d/1MWG1KX5LHnnaEhTZarqZ-3c935FxHzTB/view?usp=sharing)
-
-**Repository**
-
-https://github.com/qwerty12-ai/knowledge-compiler
-
-**Engineering Focus**
-
-Evidence traceability • Deterministic analysis • Optional local AI • Background processing • API design • Database modeling • Containerization • Testing
-
-> Knowledge Compiler is an evolving engineering project. Structural analysis is primarily implemented for Python, deterministic claims cover a limited set of repository properties, and AI-based validation is not formal verification. Confidence scores are heuristic rather than calibrated probabilities.
->
-> The repository is publicly viewable on GitHub, but the project is proprietary software, not an open-source release. The web application currently runs as a local Docker Compose setup rather than a production deployment.
+> **Scope:** Knowledge Compiler is an evolving project. Structural analysis is primarily implemented for Python, deterministic claims cover a limited set of repository properties, AI-based validation is not formal verification, and confidence scores are heuristic rather than calibrated probabilities. The repository is publicly viewable but proprietary (not open source), and the web app currently runs as a local Docker Compose setup rather than a production deployment.
 
 ---
 
-### Reclaim — AI-Powered Revenue Recovery
+### 🛡️ Reclaim
 
-*Controlled AI revenue recovery system for detecting, analyzing, and recovering revenue at risk*
+*Controlled AI revenue recovery: detect, analyze, and recover revenue at risk.*
 
-```text
-Revenue Case
-      ↓
-Deterministic Intervention
-      ↓
-AI Analysis
-      ↓
-Bounded Recovery Execution
-      ↓
-Audit Trail
-      ↓
-Batch Measurement
+**The app decides. The AI explains. The execution layer enforces the bounds.**
+
+```mermaid
+flowchart LR
+    A["Revenue Case"] --> B["Deterministic Intervention"]
+    B --> C["AI Analysis"]
+    C --> D["Bounded Execution"]
+    D --> E["Audit Trail"]
+    E --> F["Batch Measurement"]
 ```
 
-- Built a deterministic recovery pipeline for payment failures, checkout abandonment, and subscription failures.
-- Designed AI-assisted analysis using a local Qwen 3:4B model through Ollama.
-- Implemented bounded execution with `executed`, `stopped`, and `escalated` outcomes.
-- Added persistent recovery audit records and individual and batch idempotency.
-- Built batch recovery measurement for revenue at risk, revenue recovered, recovery rate, and recovery outcomes.
-- Containerized the web application, AI service, and MySQL database with Docker Compose.
-- Added GitHub Actions CI for application builds and container validation.
+- Deterministic recovery pipeline for payment failures, checkout abandonment, and subscription failures.
+- AI-assisted analysis via local Qwen 3:4B through Ollama, exposed as a dedicated FastAPI service.
+- Bounded execution with `executed`, `stopped`, and `escalated` outcomes.
+- Persistent MySQL audit records plus individual and batch idempotency.
+- Batch measurement: revenue at risk, revenue recovered, recovery rate, and outcome counts.
+- Three-service Docker Compose stack (Next.js, FastAPI, MySQL) with GitHub Actions CI.
 
-**Stack**
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,mysql,fastapi,docker,githubactions&theme=dark" alt="Reclaim stack"/>
 
-Next.js • TypeScript • MySQL • FastAPI • Ollama • Qwen 3:4B • Docker Compose • GitHub Actions
+`Ollama` `Qwen 3:4B` `Pydantic`
 
-**Pitch**
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/qwerty12-ai/Reclaim)
+[![Pitch](https://img.shields.io/badge/Watch%20the%20Pitch-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/159puneOEg8M65Fe32Vmyzru-Qh1BiI3H/view?usp=sharing)
 
-https://drive.google.com/file/d/159puneOEg8M65Fe32Vmyzru-Qh1BiI3H/view
-
-**Repository**
-
-https://github.com/qwerty12-ai/Reclaim
+> Recovery actions are simulated on seeded cases and are not connected to a real payment processor.
 
 ---
 
-### CursorVault — Cursor Pagination API
+### 📡 SignalForge
 
-*Cursor-based pagination API handling a 200K-product dataset*
+*One seed domain in. Lookalike companies, decision makers, verified emails, and personalized outreach out, with a human approval step before anything sends.*
 
-```text
-Browser Client
-      ↓
-Express REST API
-      ↓
-MySQL (Aiven)
-      ↓
-Composite Indexes
+```mermaid
+flowchart TD
+    A["Seed Domain"] --> B["Ocean.io: 5 lookalike companies"]
+    B --> C["Prospeo: decision makers"]
+    C --> D["Prospeo: verified work emails"]
+    D --> E["Personalized outreach copy"]
+    E --> F{"Human approval"}
+    F -->|Confirm| G["Brevo: send emails"]
 ```
 
-- Designed composite indexes for efficient ordered queries.
-- Implemented Base64 cursor encoding for stable pagination.
-- Engineered batch insert operations for large datasets.
+- Resilient multi-API orchestration that degrades gracefully on rate limits and empty results.
+- Human approval checkpoint: nothing is sent until the user reviews every email.
+- Normalization layer for heterogeneous API responses; outreach copy matched back to the correct company.
 
-**Stack**
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,vercel&theme=dark" alt="SignalForge stack"/>
 
-Node.js • Express.js • MySQL • Render
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/qwerty12-ai/SignalForge)
+[![Demo Video](https://img.shields.io/badge/Watch%20the%20Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/17i8M8O-Y-4LI37GD4br1zExxyfpkedTQ/view)
 
-**Live Demo**
-
-https://cursorvault.onrender.com
-
-**Repository**
-
-https://github.com/qwerty12-ai/CursorVault
+> Prospeo runs on credits, so the walkthrough video is the reliable way to see the full pipeline.
 
 ---
 
-### SignalForge — Multi-API Orchestration Platform
+### ⚡ CursorVault
 
-*Automated B2B outreach powered by multiple external APIs*
+*Cursor-based pagination API over a 200K-product dataset.*
 
-```text
-Next.js Frontend
-      ↓
-Express Backend
-      ↓
-Ocean.io
-      ↓
-Prospeo
-      ↓
-Brevo
-      ↓
-Human Approval Workflow
+```mermaid
+flowchart LR
+    A["Browser Client"] --> B["Express REST API"]
+    B --> C["MySQL on Aiven"]
+    C --> D["Composite Indexes"]
 ```
 
-- Built resilient multi-API orchestration with graceful recovery from rate limits.
-- Implemented a human approval workflow before outreach execution.
-- Designed a normalization layer for heterogeneous API responses.
+- Composite indexes on `(updated_at DESC, id DESC)` and `(category, updated_at DESC, id DESC)` for ordered queries.
+- Base64 cursor encoding from `updated_at + id` for stable pagination, with `limit + 1` fetching to compute `hasMore` without a `COUNT(*)`.
+- Batch-seeded 200,000 rows; Postman collections for local and production.
 
-**Stack**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postman&theme=dark" alt="CursorVault stack"/>
 
-Next.js • Node.js • Express.js • Vercel
+[![Live API](https://img.shields.io/badge/Live%20API-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://cursorvault.onrender.com/api/products?limit=5)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/qwerty12-ai/CursorVault)
 
-**Demo**
-
-https://drive.google.com/file/d/17i8M8O-Y-4LI37GD4br1zExxyfpkedTQ/view
-
-**Repository**
-
-https://github.com/qwerty12-ai/SignalForge
+> Hosted on Render's free tier, so the first request after inactivity can take a few seconds to wake up.
 
 ---
 
-### GitPulse — Developer Analytics API
+### 📊 GitPulse
 
-*Analytics platform built on top of the GitHub REST API*
+*Developer analytics platform built on the GitHub REST API.*
 
-```text
-GitHub REST API
-       ↓
-Controller-Service Architecture
-       ↓
-MySQL
-       ↓
-Analytics Engine
-       ↓
-Developer Rankings
+```mermaid
+flowchart LR
+    A["GitHub REST API"] --> B["Controller-Service Layer"]
+    B --> C["MySQL"]
+    C --> D["Analytics Engine"]
+    D --> E["Developer Leaderboard"]
 ```
 
-- Built a controller-service architecture around the GitHub REST API.
-- Designed a normalized relational schema.
-- Engineered an analytics engine for repository insights.
+- Controller-service architecture around the GitHub REST API.
+- Normalized one-to-many schema (`users` → `repositories`) with foreign keys and cascading deletes.
+- Analytics: total stars and forks, top repository, custom developer score, and a ranked leaderboard.
+- Deployed on Railway and verified in production with Postman and HTTP logs.
 
-**Stack**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postman&theme=dark" alt="GitPulse stack"/>
 
-Node.js • Express.js • MySQL • Railway
-
-**Demo**
-
-https://youtu.be/fi0XzXL_fIk
-
-**Repository**
-
-https://github.com/qwerty12-ai/GitPulse
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/qwerty12-ai/GitPulse)
+[![Postman Demo](https://img.shields.io/badge/Postman%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fi0XzXL_fIk)
+[![Live API](https://img.shields.io/badge/Live%20API-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://gitpulse-production-2582.up.railway.app/)
 
 ---
 
-### PromptPad AI
+### ✍️ PromptPad AI
 
-*Prompt engineering workspace with version management*
+*A VS Code-style workspace for prompt engineers.*
 
-```text
-Next.js
-     ↓
-GitHub OAuth
-     ↓
-MongoDB
-     ↓
-Prompt Versioning
+```mermaid
+flowchart LR
+    A["Next.js App Router"] --> B["GitHub OAuth"]
+    B --> C["MongoDB Atlas"]
+    C --> D["Prompt Versioning and Compare"]
 ```
 
-- Built GitHub OAuth authentication.
-- Designed secure per-user prompt isolation.
-- Implemented prompt version comparison.
+- GitHub OAuth through NextAuth.js, with per-user prompt isolation.
+- Write, edit, and save prompts; compare prompts side by side.
+- AI output generation via Puter.js; MongoDB + Mongoose persistence.
 
-**Stack**
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,mongodb,vercel&theme=dark" alt="PromptPad stack"/>
 
-Next.js • MongoDB Atlas • NextAuth.js • Vercel
-
-**Demo**
-
-https://promptpad-ai-editor.vercel.app
-
-**Repository**
-
-https://github.com/qwerty12-ai/PromptPad-AI-Editor
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://promptpad-ai-editor.vercel.app)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/qwerty12-ai/PromptPad-AI-Editor)
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**
+<div align="center">
 
-Python • JavaScript • TypeScript • SQL • Bash
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,js,ts,bash&theme=dark" alt="languages"/><br/>
+SQL
 
-**Backend**
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="backend"/>
 
-Node.js • Express.js • FastAPI • REST APIs • Background Job Processing
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="frontend"/>
 
-**Frontend**
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark" alt="databases"/>
 
-React • Next.js • Tailwind CSS
+**Infrastructure & CI/CD**<br/>
+<img src="https://skillicons.dev/icons?i=linux,docker,githubactions,aws&theme=dark" alt="infrastructure"/><br/>
+AWS (learning)
 
-**Databases**
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,vercel&theme=dark" alt="tools"/>
 
-MySQL • MongoDB • Mongoose
+**AI, Queues & Hosting**<br/>
+Ollama • Qwen 3:4B • BullMQ • Redis Pub/Sub • Server-Sent Events • pytest • Render • Railway • MongoDB Atlas • Aiven
 
-**AI & LLM Integration**
-
-Ollama • Qwen 3:4B • Local AI Investigation • Evidence-Based Observation Validation
-
-**Infrastructure & Messaging**
-
-Linux • Docker • Docker Compose • Redis • BullMQ • Redis Pub/Sub • Server-Sent Events
-
-**CI/CD & Testing**
-
-GitHub Actions • pytest • Frontend Linting • Production Build Checks
-
-**Cloud**
-
-AWS (Learning)
-
-**Tools**
-
-Git • Postman • Render • Vercel • MongoDB Atlas
+</div>
 
 ---
 
@@ -705,9 +576,11 @@ Git • Postman • Render • Vercel • MongoDB Atlas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=qwerty12-ai&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qwerty12-ai&theme=github_dark" alt="Profile details" width="100%"/>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qwerty12-ai&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=qwerty12-ai&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qwerty12-ai&theme=github_dark" alt="Repos per language" width="48%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qwerty12-ai&theme=github_dark" alt="Most used languages" width="48%"/>
 
 </div>
 
@@ -715,38 +588,27 @@ Git • Postman • Render • Vercel • MongoDB Atlas
 
 ## 🎯 Currently Learning
 
-- Docker and containerization
-- Redis and background job processing
-- AWS and cloud computing
-- DevOps and CI/CD
-- System design
-- Reliable distributed systems
+- 🐳 Docker and containerization
+- ⚙️ Redis and background job processing
+- ☁️ AWS and cloud computing
+- 🔁 DevOps and CI/CD
+- 🧩 System design
+- 🌐 Reliable distributed systems
 
 ---
 
 ## 🧠 Engineering Philosophy
 
 - Build products, not tutorials.
-- Prefer understanding systems over memorizing frameworks.
+- Understand systems instead of memorizing frameworks.
 - Optimize for maintainability before complexity.
+- Show the evidence. Make uncertainty visible.
 
 ---
 
 ## 🏅 Certifications
 
-**CS50x — Harvard University**
-
-[View certificate](https://certificates.cs50.io/b6002d62-50e3-4d0e-9da8-7a70a9bfd722.pdf)
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=qwerty12-ai&theme=github-dark&hide_border=true)
-
-</div>
+**CS50x, Harvard University** &nbsp;[View certificate](https://certificates.cs50.io/b6002d62-50e3-4d0e-9da8-7a70a9bfd722.pdf)
 
 ---
 
@@ -754,23 +616,14 @@ Git • Postman • Render • Vercel • MongoDB Atlas
 
 <div align="center">
 
-📧 **Email**
-[sabeehmohd79@gmail.com](mailto:sabeehmohd79@gmail.com)
-
-💼 **LinkedIn**
-[linkedin.com/in/mohd-abdul-sabeeh-38429a2ba](https://linkedin.com/in/mohd-abdul-sabeeh-38429a2ba)
-
-🐙 **GitHub**
-[github.com/qwerty12-ai](https://github.com/qwerty12-ai)
-
-</div>
-
----
-
-<div align="center">
+[![Email](https://img.shields.io/badge/sabeehmohd79%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabeehmohd79@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohd--abdul--sabeeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-abdul-sabeeh-38429a2ba)
+[![GitHub](https://img.shields.io/badge/GitHub-qwerty12--ai-181717?style=for-the-badge&logo=github)](https://github.com/qwerty12-ai)
 
 **Products over promises.**
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=qwerty12-ai)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56A0,100:7C3AED&height=120&section=footer" alt="footer" width="100%"/>
 
 </div>
