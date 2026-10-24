@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=560&lines=Building+Products;Designing+Backend+Systems;Making+AI+Findings+Inspectable;Learning+Docker+%26+Cloud;Shipping+Software)](https://github.com/qwerty12-ai)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Enter%20the%20Mind-E9B85D?style=for-the-badge&logo=vercel&logoColor=black)](https://mohd-abdul-sabeeh.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-qwerty12--ai-181717?style=for-the-badge&logo=github)](https://github.com/qwerty12-ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-abdul-sabeeh-38429a2ba)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabeehmohd79@gmail.com)
@@ -34,6 +35,8 @@ I care about reliable backend systems that are maintainable, scalable, and easy 
 ## 🖥 Developer Console
 
 Welcome to Mohd Abdul Sabeeh's Developer Console. Click ▶ beside a command to run it.
+
+> Want the real thing? Type `enter` at **[mohd-abdul-sabeeh.vercel.app](https://mohd-abdul-sabeeh.vercel.app)** and walk through the whole map.
 
 ```text
 Session initialized.
@@ -616,6 +619,7 @@ Ollama • Qwen 3:4B • BullMQ • Redis Pub/Sub • Server-Sent Events • pyt
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Enter%20the%20Mind-E9B85D?style=for-the-badge&logo=vercel&logoColor=black)](https://mohd-abdul-sabeeh.vercel.app)
 [![Email](https://img.shields.io/badge/sabeehmohd79%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabeehmohd79@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohd--abdul--sabeeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-abdul-sabeeh-38429a2ba)
 [![GitHub](https://img.shields.io/badge/GitHub-qwerty12--ai-181717?style=for-the-badge&logo=github)](https://github.com/qwerty12-ai)
